@@ -20,3 +20,7 @@ Here 2 tools are used:
       - for remote access to the EC2 instance
   - FileZilla:
       - for transfering files to the remote virtual server  
+
+# Server Architecture Diagram
+
+![dp](https://user-images.githubusercontent.com/25872149/119741618-c4b8a200-be8e-11eb-910f-348bbc623155.jpg)
