@@ -24,3 +24,11 @@ Here 2 tools are used:
 # Server Architecture Diagram
 
 ![dp](https://user-images.githubusercontent.com/25872149/119741618-c4b8a200-be8e-11eb-910f-348bbc623155.jpg)
+
+# Run it
+
+How to start the server:
+  - first clone it
+  - after it's cloned on your machine you can run it locally on the localhost:port 
+  - use npm install for installing all the packages needed
+  - after the npm install is done use npm start to start the server locally
